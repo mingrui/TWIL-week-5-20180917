@@ -9,3 +9,6 @@ https://github.com/ncoudray/DeepPATH
 
 A website that recommends programming books everyday:  
 https://salttiger.com/
+
+Cool group of android developers:  
+https://github.com/RikkaApps
