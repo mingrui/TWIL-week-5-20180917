@@ -12,3 +12,6 @@ https://salttiger.com/
 
 Cool group of android developers:  
 https://github.com/RikkaApps
+
+Tree structure representation:  
+http://mama.indstate.edu/users/ice/tree/
